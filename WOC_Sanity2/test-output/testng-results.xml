@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="559097" started-at="2019-11-27T12:38:55Z" finished-at="2019-11-27T12:48:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="559097" started-at="2019-11-27T12:38:55Z" finished-at="2019-11-27T12:48:15Z">
+      <class name="com.sanity.testcases.WOC_PortalTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.sanity.testcases.WOC_PortalTest@69b0fd6f]" name="setup" is-config="true" duration-ms="42" started-at="2019-11-27T12:38:55Z" finished-at="2019-11-27T12:38:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.sanity.testcases.WOC_PortalTest@69b0fd6f]" name="startTest" is-config="true" duration-ms="530" started-at="2019-11-27T12:38:57Z" finished-at="2019-11-27T12:38:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="UserDefinedTestCase([Ljava.lang.String;)[pri:0, instance:com.sanity.testcases.WOC_PortalTest@69b0fd6f]" name="UserDefinedTestCase" duration-ms="543774" started-at="2019-11-27T12:38:58Z" data-provider="testData" finished-at="2019-11-27T12:48:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@2e6ee0bc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserDefinedTestCase -->
+        <test-method status="PASS" signature="finishTest()[pri:0, instance:com.sanity.testcases.WOC_PortalTest@69b0fd6f]" name="finishTest" is-config="true" duration-ms="12956" started-at="2019-11-27T12:48:02Z" finished-at="2019-11-27T12:48:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishTest -->
+      </class> <!-- com.sanity.testcases.WOC_PortalTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
